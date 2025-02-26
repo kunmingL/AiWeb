@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+dashscope>=1.14.0  # 通义千问API
+deepseek==0.0.1    # DeepSeek API
+pydantic==2.5.2
+python-multipart==0.0.6
+requests==2.31.0
+PyPDF2==3.0.1
+python-docx==0.8.11
+edge-tts==6.1.9
+langdetect==1.0.9
+python-pptx==0.6.21
+pandas==2.0.3
+openpyxl==3.1.2
+Pillow==10.0.0
+pytesseract==0.3.10 
